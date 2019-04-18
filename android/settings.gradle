@@ -1,0 +1,3 @@
+rootProject.name = 'icatlas_2414'
+
+include ':app'
